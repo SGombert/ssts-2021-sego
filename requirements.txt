@@ -1,0 +1,9 @@
+numpy
+scipy
+pandas
+sklearn
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==1.9.0+cu102
+transformers
+catboost
+tqdm
